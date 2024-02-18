@@ -63,3 +63,7 @@ This is a paragraph with a task list:
 This is a paragraph with a mention @username
 
 This is a paragraph with an emoji :smile:
+
+## Sources
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown Emojis](https://gist.github.com/rxaviers/7360908)
